@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 //👇🏻 component
 import Dashboard from "./components/Dashboard";
-import Login from "./components/Login";
+import Login from "./pages/LoginPage";
 import Signup from "./components/Signup";
 import Profile from "./components/Profile";
 import BookUser from "./components/BookUser";

@@ -38,7 +38,7 @@ const Login = () => {
           className="username w-[60%] border-2 border-gray-400"
         />
         <label htmlFor="password" className="font-bold text-xl">
-          Password
+          Password after modification
         </label>
         <input
           id="password"
